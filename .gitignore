@@ -1,0 +1,62 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+build/
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+.lifecycle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ project files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/libraries/
+.idea/assetWizardSettings.xml
+.idea/gradle.xml # Keep this if you want to commit Gradle configuration
+.idea/caches/
+.idea/render.experimental.xml
+.idea/shelf/
+.idea/vcs.xml # Keep this if you want to commit VCS configuration
+.idea/.gitignore # Keep this if you want to commit the .idea .gitignore
+
+# Android Studio navigation history
+.navigation/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build.
+# For NDK projects that use automatic Gradle integration.
+.externalNativeBuild/
+
+# Mac specific files
+.DS_Store
+
+# CMake
+CMakeLists.txt.user
+
+# Fabric Crashlytics
+crashlytics-build.properties
+
+# Pinned user settings
+.idea/misc.xml
